@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Mi propio <a href="https://start.me/p/Nx0AB7/cositas">start.me</a> :D</h4>
+<h4 align="center">HOLA :D</h4>
 
 ---
 
